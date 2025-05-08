@@ -23,7 +23,7 @@ To get started with the PayTM Clone project, follow these steps:
 1. **Clone the Repository**: Clone the repository from GitHub:
 
    ```
-   git clone https://github.com/Himanshu-0104/makepayment.git
+   git clone https://github.com/21001015028/makepayment.git
    
    ```
 
